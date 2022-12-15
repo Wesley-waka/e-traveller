@@ -1,0 +1,346 @@
+{
+ 
+    "hotels": [
+    
+       {
+    
+         "id": "1",
+    
+         "name": "The Social House Nairobi",
+    
+         "location": "Nairobi,Westlands near Sarit Centre",
+    
+         "price": 8000,
+    
+         "rating": "8.5/10",
+    
+         "poster": "https://thesocialhouse.ke/assets/images/rnb/copper/2.jpg"
+    
+       },
+       {
+    
+        "id": "2",
+    
+         "name": "Ibis Style",
+    
+         "location": "Nairobi,Westlands within Rhapta road",
+    
+         "price": 7000,
+    
+         "rating": "9.5/10",
+    
+         "poster": "https://images.cvent.com/CSN/677622bc-2183-4d9e-a5a9-53e0fe4538bb/images/23013d2214cc42bdaa39e0682acc1baf_LARGE!_!c3394ce01f0d13e979d8e6306d72cfe7.jpg"
+   
+      },
+      {
+    
+        "id": "3",
+    
+         "name": "Kempinski Villa Rosa",
+    
+         "location": "Nairobi,Westlands along Chiromo road",
+    
+         "price": 5550,
+    
+         "rating": "7.5/10",
+    
+         "poster": "https://eatlovesavor.com/wp-content/uploads/2015/04/Villa-Rosa-Kempinski-Nairobi-Exterior.jpg"
+   
+      },
+      {
+    
+        "id": "4",
+    
+         "name": "Tribe Hotel",
+    
+         "location": "Nairobi, Market road",
+    
+         "price": 7000,
+    
+         "rating": "8.5/10",
+    
+         "poster": "https://www.thehotelguru.com/_images/25/ff/25ffd6d089bf9e6b6e7c3c77f6baea31/tribe-hotel-s1180x560.jpg"
+   
+      },
+      {
+    
+        "id": "5",
+    
+         "name": "Moven Pick",
+    
+         "location": "Nairobi,Westlands",
+    
+         "price": 3000,
+    
+         "rating": "8.5/10",
+    
+         "poster": "https://m.ahstatic.com/is/image/accorhotels/Nairobi_xxxxxxxxxx_i126913:3by2?wid=364&hei=243&dpr=on,2.625&qlt=75&resMode=sharp2&op_usm=0.5,0.3,2,0&iccEmbed=true&icc=sRGB"
+   
+      }
+      
+      
+    ],
+
+    "restaurants": [
+    
+        {
+     
+          "id": "1",
+     
+          "name": "Pronto",
+     
+          "location": "Nairobi,CBD region",
+     
+          "price": 3500,
+     
+          "rating": "9.5/10",
+     
+          "poster": "https://eatout.co.ke/wp-content/uploads/2020/06/Asparagus-X-Poached-Eggs-X-Salad.jpg"
+     
+        },
+        {
+     
+         "id": "2",
+     
+          "name": "Galileo",
+     
+          "location": "Nairobi,Parklands within Rhapta road",
+     
+          "price": 7000,
+     
+          "rating": "6.5/10",
+     
+          "poster": "https://eatout.co.ke/wp-content/uploads/2021/05/8807-Copy.jpg"
+    
+       },
+       {
+     
+         "id": "3",
+     
+          "name": "Sierra",
+     
+          "location": "Nairobi,Kitisuru",
+     
+          "price": 3000,
+     
+          "rating": "6.5/10",
+     
+          "poster": "https://eatout.co.ke/wp-content/uploads/2022/11/274229901_351566176684411_4951110274787289527_n-1.jpeg"
+    
+       },
+       {
+     
+         "id": "4",
+     
+          "name": "Mawimbi Hotel",
+     
+          "location": "Nairobi, Market road",
+     
+          "price": 30700,
+     
+          "rating": "8.5/10",
+     
+          "poster": "https://eatout.co.ke/wp-content/uploads/2022/11/275524118_920061948575779_1039299362011939595_n.jpeg"
+    
+       },
+       {
+     
+         "id": "5",
+     
+          "name": "Jakoni",
+     
+          "location": "Nairobi,Limuru",
+     
+          "price": 5000,
+     
+          "rating": "6.5/10",
+     
+          "poster": "https://eatout.co.ke/wp-content/uploads/2022/11/242625873_463772331394386_6587699902999413545_n.jpeg"
+    
+       }
+       
+       
+     ],
+     "coffee": [
+    
+        {
+     
+          "id": "1",
+     
+          "name": "Tin Roof cafe",
+     
+          "location": "Nairobi,Westlands ",
+     
+          "price": 30900,
+     
+          "rating": "9.5/10",
+     
+          "poster": "https://eatout.co.ke/wp-content/uploads/2021/04/65172435_130274894842188_5038244512024770869_n.jpg"
+     
+        },
+        {
+     
+         "id": "2",
+     
+          "name": "Narista & Co.",
+     
+          "location": "Nairobi ,Parklands ",
+     
+          "price": 7000,
+     
+          "rating": "6.5/10",
+     
+          "poster": "https://eatout.co.ke/wp-content/uploads/2021/04/tin.jpg"
+    
+       },
+       {
+     
+         "id": "3",
+     
+          "name": "Hopskotch",
+     
+          "location": "Nairobi,Parklands  along Chiromo road",
+     
+          "price": 204344,
+     
+          "rating": "7.5/10",
+     
+          "poster": "https://eatout.co.ke/wp-content/uploads/2021/07/DSC06882-HDR-1-scaled.jpg"
+    
+       },
+       {
+     
+         "id": "4",
+     
+          "name": "Artcaffe",
+     
+          "location": "Nairobi, Village Market ",
+     
+          "price": 30535,
+     
+          "rating": "8.5/10",
+     
+          "poster": "https://eatout.co.ke/wp-content/uploads/2021/05/137622789_406426253956083_809497355454471301_n.jpg"
+    
+       },
+       {
+     
+         "id": "5",
+     
+          "name": "Early Bird",
+     
+          "location": "Nairobi,Westlands",
+     
+          "price": 30345,
+     
+          "rating": "8.5/10",
+     
+          "poster": "https://eatout.co.ke/wp-content/uploads/2021/07/209914273_1004849026927650_6096334504409280714_n.jpg"
+    
+       }
+       
+       
+     ],
+     "bars": [
+    
+        {
+     
+          "id": "1",
+     
+          "name": "Tortuga",
+     
+          "location": "Nairobi,Thika",
+     
+          "price": 30654,
+     
+          "rating": "7.5/10",
+     
+          "poster": "https://eatout.co.ke/wp-content/uploads/2021/04/fonda-s-taqueria-recreating.jpg"
+     
+        },
+        {
+     
+         "id": "2",
+     
+          "name": "The Alchemist",
+     
+          "location": "Nairobi,Roysambu",
+     
+          "price": 70555,
+     
+          "rating": "6.5/10",
+     
+          "poster": "https://eatout.co.ke/wp-content/uploads/2022/01/Tripadvisor-6-scaled.jpg"
+    
+       },
+       {
+     
+         "id": "3",
+     
+          "name": "Sarabi Rooftop Restaurant",
+     
+          "location": "Nairobi,Westlands ",
+     
+          "price": 30665,
+     
+          "rating": "3.5/10",
+     
+          "poster": "https://eatout.co.ke/wp-content/uploads/2022/01/Tripadvisor-16-scaled.jpg"
+    
+       }
+   
+       
+       
+     ],
+     "clubs": [
+    
+        {
+     
+          "id": "1",
+     
+          "name": "K1 Klub House",
+     
+          "location": "Nairobi,Parklands ",
+     
+          "price": 30500,
+     
+          "rating": "8.5/10",
+     
+          "poster": "https://eatout.co.ke/wp-content/uploads/2021/05/122824084_401548351222088_2633897957848073152_n.jpg"
+     
+        },
+        {
+     
+         "id": "2",
+     
+          "name": "Forty Lounge",
+     
+          "location": "Nairobi,Westlands within Rhapta road",
+     
+          "price": 7000,
+     
+          "rating": "9.5/10",
+     
+          "poster": "https://eatout.co.ke/wp-content/uploads/2021/05/131463825_101805345101828_5204267270938932543_n.jpg"
+    
+       },
+       {
+     
+         "id": "3",
+     
+          "name": "The Tunnel",
+     
+          "location": "Nairobi ",
+     
+          "price": 30453,
+     
+          "rating": "7.5/10",
+     
+          "poster": "https://eatout.co.ke/wp-content/uploads/2021/05/131261021_228524858642073_8098569365455787921_n.jpg"
+    
+       }
+   
+       
+     ]
+
+}
