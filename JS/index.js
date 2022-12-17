@@ -19,7 +19,7 @@ setInterval(() => {
 }, 5000);
 
 
-fetch("http://localhost:3000/hotels")
+fetch("https://wesley-db-json-production.up.railway.app/hotels")
 .then(response =>response.json())
 .then(hotels)
 
@@ -57,7 +57,7 @@ fetch("http://localhost:3000/hotels")
 
 
 
-fetch("http://localhost:3000/restaurants")
+fetch("https://wesley-db-json-production.up.railway.app/restaurants")
 .then(response =>response.json())
 .then(restaurant);
 
@@ -96,7 +96,7 @@ fetch("http://localhost:3000/restaurants")
 
 
 
-fetch("http://localhost:3000/coffee")
+fetch("https://wesley-db-json-production.up.railway.app/coffee")
 .then(response =>response.json())
 .then(coffee);
 
@@ -138,7 +138,7 @@ fetch("http://localhost:3000/coffee")
 
 
 
-fetch("http://localhost:3000/bars")
+fetch("https://wesley-db-json-production.up.railway.app/bars")
 .then(response =>response.json())
 .then(bars);
 
@@ -180,7 +180,7 @@ fetch("http://localhost:3000/bars")
 
 
 
-fetch("http://localhost:3000/clubs")
+fetch("https://wesley-db-json-production.up.railway.app/clubs")
 .then(response =>response.json())
 .then(clubs);
 
